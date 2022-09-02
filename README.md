@@ -6,7 +6,7 @@
 
   <h4 align="center">  
     <br />
-    <a href="https://enetechcovidupdater.netlify.app/" target="_blank">View Live</a>
+    <a href="https://elegant-torrone-72f71c.netlify.app/" target="_blank">View Live</a>
     ·
     <a href="https://github.com/ifzyy/metrics-webapp/issues" target="_blank">Report Bug</a>
     ·
@@ -46,10 +46,6 @@ A Covid-19 summary API based mobile application that renders real-time data glob
 
 [Here is the video link](https://www.loom.com/share/0d1b49cba6524d7080bbdb16c6b6adda)
 
-<>
-[![localhost-3000-i-Phone-6-7-8-Plus.png](https://i.postimg.cc/7L9RDKcM/localhost-3000-i-Phone-6-7-8-Plus.png)](https://postimg.cc/wtt2QQ97)
-
-<img width="612" alt="Covid-updater preview" src="https://i.postimg.cc/htMgYt2j/localhost-3000-Nest-Hub-Max.png">
 
 **Core Functionalities:**
 
