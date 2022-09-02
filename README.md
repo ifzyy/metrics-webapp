@@ -104,6 +104,11 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+# Testing 
+
+### To test the application
+Run 'npm rub test' on your local machine
+
 <!-- LICENSE -->
 
 ## License
@@ -133,6 +138,7 @@ Distributed under the MIT License.
 - [Behance Ballhead Application](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)>)
 - [Post Images](https://postimages.org/)
 - [React Icons](https://react-icons.github.io/react-icons/search)
+- [Nelson swaka](https://www.behance.net/sakwadesignstudio)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
