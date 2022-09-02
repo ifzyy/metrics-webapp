@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render <Countries /> correctly 1`] = `
+<li
+  className="country"
+>
+  <p
+    className="countryName"
+  >
+    Nigeria
+  </p>
+  <p
+    className="countryCode"
+  >
+    NG
+  </p>
+  <button
+    className="forward"
+    id="80"
+    name="Nigeria"
+    onClick={[Function]}
+    type="button"
+  >
+    See details
+  </button>
+</li>
+`;
