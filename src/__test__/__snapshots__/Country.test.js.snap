@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render <Countries /> correctly 1`] = `
+<li
+  className="country"
+>
+  <p
+    className="countryName"
+  />
+  <p
+    className="countryCode"
+  />
+  <button
+    className="forward"
+    onClick={[Function]}
+  >
+    See details
+  </button>
+</li>
+`;
