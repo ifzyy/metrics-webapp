@@ -1,11 +1,11 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import { useNavigate } from 'react-router-dom';
+import PropTypes from 'prop-types';
 import '../styles/country.css';
 
-const Country = ({
+function Country({
   id, country, countryCode,
-}) => {
+}) {
   const navigate = useNavigate();
   const handleClick = () => {
     navigate(`/statistics/${country}`);
@@ -20,7 +20,7 @@ const Country = ({
     </li>
 
   );
-};
+}
 
 Country.propTypes = {
   id: PropTypes.string.isRequired,
