@@ -9,7 +9,7 @@ it('Render <Countries /> correctly', () => {
     .create(
       <Provider store={store}>
         <MemoryRouter>
-          <Country id="80" country="Nigeria" countryCode="NG"/>
+          <Country id="80" country="Nigeria" countryCode="NG" />
         </MemoryRouter>
       </Provider>,
     )
