@@ -1,0 +1,175 @@
+@media (max-width: 768px) {
+  .header {
+    background-color: rgb(241, 26, 127);
+  }
+
+  .logo {
+    color: #fff;
+    margin: 0;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+  }
+
+  .searchIcon-one {
+    background-color: grey;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    padding: 5px;
+  }
+
+  .searchInput {
+    display: none;
+  }
+
+  .searchInput-one {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .cont {
+    display: flex;
+    align-items: center;
+  }
+
+  .textInput-one {
+    width: 200px;
+    height: 10px;
+    outline: none;
+    padding: 10px;
+  }
+
+  .textInput-one::placeholder {
+    font-size: 20px;
+  }
+
+  .countryheading {
+    font-family: "Crete Round", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 52px;
+  }
+
+  .textInput {
+    outline: none;
+  }
+
+  .text-cont {
+    display: none;
+  }
+
+  .text {
+    display: none;
+  }
+
+  .countriesList {
+    display: grid;
+    grid-template-columns: 327px;
+    justify-content: center;
+    padding-left: 0;
+    gap: 30px;
+  }
+}
+
+@media (min-width: 769px) {
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(241, 26, 127);
+  }
+
+  .logo {
+    margin-left: 100px;
+    color: #fff;
+  }
+
+  .searchIcon-one,
+  .searchIcon {
+    background-color: grey;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    padding: 5px;
+  }
+
+  .searchInput {
+    display: flex;
+    margin-right: 100px;
+  }
+
+  .searchInput-one {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .cont {
+    display: flex;
+    align-items: center;
+  }
+
+  .textInput-one {
+    width: 300px;
+    height: 10px;
+    outline: none;
+    padding: 10px;
+  }
+
+  .textInput-one::placeholder {
+    font-size: 20px;
+  }
+
+  .countryheading {
+    height: 83px;
+    font-family: "Crete Round", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 52px;
+  }
+
+  .headerContainer {
+    height: 700px;
+    background-image: url(https://raisingchildren.net.au/__data/assets/image/0021/104169/Covid-vaccination-teens.jpg);
+    background-size: cover;
+  }
+
+  .colo {
+    height: 700px;
+    background: #161414b3;
+  }
+
+  .textInput {
+    outline: none;
+  }
+
+  .text-cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 120px;
+  }
+
+  .text {
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+  }
+
+  .countriesList {
+    display: grid;
+    grid-template-columns: 369px 369px 369px;
+    justify-content: center;
+    gap: 30px;
+  }
+}

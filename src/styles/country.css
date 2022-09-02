@@ -1,0 +1,69 @@
+@media (max-width: 768px) {
+  .country {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url(https://images.theconversation.com/files/453423/original/file-20220321-14981-gwxv7z.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop);
+    background-size: cover;
+    width: 320px;
+  }
+
+  .countryName,
+  .countryCode {
+    text-align: center;
+    color: white;
+  }
+
+  .countryName {
+    margin: 0;
+    margin-top: 5px;
+    font-size: 30px;
+  }
+
+  button {
+    background-color: rgb(241, 26, 127);
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    color: #fff;
+    border: none;
+    font-size: 1.1rem;
+    padding: 0.7rem;
+    margin-top: 300px;
+  }
+}
+
+@media (min-width: 769px) {
+  .country {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url(https://images.theconversation.com/files/453423/original/file-20220321-14981-gwxv7z.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop);
+    background-size: cover;
+  }
+
+  .countryName,
+  .countryCode {
+    text-align: center;
+    color: white;
+    margin: 0;
+  }
+
+  .countryName {
+    margin: 0;
+    margin-top: 5px;
+    font-size: 35px;
+  }
+
+  button {
+    background-color: rgb(241, 26, 127);
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    color: #fff;
+    border: none;
+    font-size: 1.1rem;
+    padding: 0.7rem;
+    margin-top: 300px;
+  }
+}
